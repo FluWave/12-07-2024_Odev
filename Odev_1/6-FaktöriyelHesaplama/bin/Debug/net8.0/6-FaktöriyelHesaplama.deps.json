@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "6-FaktöriyelHesaplama/1.0.0": {
+        "runtime": {
+          "6-FaktöriyelHesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6-FaktöriyelHesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

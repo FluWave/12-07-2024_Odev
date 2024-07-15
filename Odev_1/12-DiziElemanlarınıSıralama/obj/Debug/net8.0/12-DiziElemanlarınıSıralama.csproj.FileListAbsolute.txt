@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\bin\Debug\net8.0\12-DiziElemanlarınıSıralama.exe
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\bin\Debug\net8.0\12-DiziElemanlarınıSıralama.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\bin\Debug\net8.0\12-DiziElemanlarınıSıralama.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\bin\Debug\net8.0\12-DiziElemanlarınıSıralama.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\bin\Debug\net8.0\12-DiziElemanlarınıSıralama.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\12-DiziElemanlarınıSıralama.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\12-DiziElemanlarınıSıralama.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\12-DiziElemanlarınıSıralama.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\12-DiziElemanlarınıSıralama.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\12-DiziElemanlarınıSıralama.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\refint\12-DiziElemanlarınıSıralama.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\12-DiziElemanlarınıSıralama.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\12-DiziElemanlarınıSıralama.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\12-DiziElemanlarınıSıralama\obj\Debug\net8.0\ref\12-DiziElemanlarınıSıralama.dll

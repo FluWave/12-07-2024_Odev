@@ -1,0 +1,28 @@
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\bin\Debug\net8.0\TekÇift.exe
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\bin\Debug\net8.0\TekÇift.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\bin\Debug\net8.0\TekÇift.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\bin\Debug\net8.0\TekÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\bin\Debug\net8.0\TekÇift.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\TekÇift.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\TekÇift.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\TekÇift.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\TekÇift.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\TekÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\refint\TekÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\TekÇift.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\TekÇift.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\TekÇift\obj\Debug\net8.0\ref\TekÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\bin\Debug\net8.0\TekÇift.exe
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\bin\Debug\net8.0\TekÇift.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\bin\Debug\net8.0\TekÇift.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\bin\Debug\net8.0\TekÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\bin\Debug\net8.0\TekÇift.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\TekÇift.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\TekÇift.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\TekÇift.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\TekÇift.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\TekÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\refint\TekÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\TekÇift.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\TekÇift.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\1-TekÇift\obj\Debug\net8.0\ref\TekÇift.dll

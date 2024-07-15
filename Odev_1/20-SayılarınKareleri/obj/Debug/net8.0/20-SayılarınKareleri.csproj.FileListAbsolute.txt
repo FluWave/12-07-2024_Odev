@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\bin\Debug\net8.0\20-SayılarınKareleri.exe
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\bin\Debug\net8.0\20-SayılarınKareleri.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\bin\Debug\net8.0\20-SayılarınKareleri.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\bin\Debug\net8.0\20-SayılarınKareleri.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\bin\Debug\net8.0\20-SayılarınKareleri.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\20-SayılarınKareleri.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\20-SayılarınKareleri.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\20-SayılarınKareleri.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\20-SayılarınKareleri.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\20-SayılarınKareleri.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\refint\20-SayılarınKareleri.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\20-SayılarınKareleri.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\20-SayılarınKareleri.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\20-SayılarınKareleri\obj\Debug\net8.0\ref\20-SayılarınKareleri.dll

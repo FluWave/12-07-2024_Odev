@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-TersÇevirmeProgramı", "8-TersÇevirmeProgramı.csproj", "{C379972D-B7A3-43C4-8AB1-5AFBF662A181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C379972D-B7A3-43C4-8AB1-5AFBF662A181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C379972D-B7A3-43C4-8AB1-5AFBF662A181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C379972D-B7A3-43C4-8AB1-5AFBF662A181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C379972D-B7A3-43C4-8AB1-5AFBF662A181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C1123C-D035-42EA-86AC-F0511CC205E4}
+	EndGlobalSection
+EndGlobal

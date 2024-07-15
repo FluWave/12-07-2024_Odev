@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\bin\Debug\net8.0\2-Büyük&Küçük.exe
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\bin\Debug\net8.0\2-Büyük&Küçük.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\bin\Debug\net8.0\2-Büyük&Küçük.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\bin\Debug\net8.0\2-Büyük&Küçük.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\bin\Debug\net8.0\2-Büyük&Küçük.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\2-Büyük&Küçük.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\2-Büyük&Küçük.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\2-Büyük&Küçük.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\2-Büyük&Küçük.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\2-Büyük&Küçük.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\refint\2-Büyük&Küçük.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\2-Büyük&Küçük.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\2-Büyük&Küçük.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\2-Büyük&Küçük\obj\Debug\net8.0\ref\2-Büyük&Küçük.dll

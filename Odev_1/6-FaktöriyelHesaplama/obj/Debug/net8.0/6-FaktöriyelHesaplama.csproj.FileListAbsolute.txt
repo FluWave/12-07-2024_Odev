@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\bin\Debug\net8.0\6-FaktöriyelHesaplama.exe
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\bin\Debug\net8.0\6-FaktöriyelHesaplama.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\bin\Debug\net8.0\6-FaktöriyelHesaplama.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\bin\Debug\net8.0\6-FaktöriyelHesaplama.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\bin\Debug\net8.0\6-FaktöriyelHesaplama.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\6-FaktöriyelHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\6-FaktöriyelHesaplama.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\6-FaktöriyelHesaplama.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\6-FaktöriyelHesaplama.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\6-FaktöriyelHesaplama.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\refint\6-FaktöriyelHesaplama.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\6-FaktöriyelHesaplama.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\6-FaktöriyelHesaplama.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\6-FaktöriyelHesaplama\obj\Debug\net8.0\ref\6-FaktöriyelHesaplama.dll

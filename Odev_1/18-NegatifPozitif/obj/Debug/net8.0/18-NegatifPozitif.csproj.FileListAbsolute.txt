@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\bin\Debug\net8.0\18-NegatifPozitif.exe
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\bin\Debug\net8.0\18-NegatifPozitif.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\bin\Debug\net8.0\18-NegatifPozitif.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\bin\Debug\net8.0\18-NegatifPozitif.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\bin\Debug\net8.0\18-NegatifPozitif.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\18-NegatifPozitif.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\18-NegatifPozitif.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\18-NegatifPozitif.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\18-NegatifPozitif.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\18-NegatifPozitif.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\refint\18-NegatifPozitif.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\18-NegatifPozitif.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\18-NegatifPozitif.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\18-NegatifPozitif\obj\Debug\net8.0\ref\18-NegatifPozitif.dll

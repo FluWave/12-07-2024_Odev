@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\bin\Debug\net8.0\8-TersÇevirmeProgramı.exe
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\bin\Debug\net8.0\8-TersÇevirmeProgramı.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\bin\Debug\net8.0\8-TersÇevirmeProgramı.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\bin\Debug\net8.0\8-TersÇevirmeProgramı.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\bin\Debug\net8.0\8-TersÇevirmeProgramı.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\8-TersÇevirmeProgramı.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\8-TersÇevirmeProgramı.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\8-TersÇevirmeProgramı.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\8-TersÇevirmeProgramı.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\8-TersÇevirmeProgramı.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\refint\8-TersÇevirmeProgramı.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\8-TersÇevirmeProgramı.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\8-TersÇevirmeProgramı.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\8-TersÇevirmeProgramı\obj\Debug\net8.0\ref\8-TersÇevirmeProgramı.dll

@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\bin\Debug\net8.0\19-OrtalamaHesaplama.exe
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\bin\Debug\net8.0\19-OrtalamaHesaplama.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\bin\Debug\net8.0\19-OrtalamaHesaplama.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\bin\Debug\net8.0\19-OrtalamaHesaplama.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\bin\Debug\net8.0\19-OrtalamaHesaplama.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\19-OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\19-OrtalamaHesaplama.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\19-OrtalamaHesaplama.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\19-OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\19-OrtalamaHesaplama.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\refint\19-OrtalamaHesaplama.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\19-OrtalamaHesaplama.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\19-OrtalamaHesaplama.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\19-OrtalamaHesaplama\obj\Debug\net8.0\ref\19-OrtalamaHesaplama.dll

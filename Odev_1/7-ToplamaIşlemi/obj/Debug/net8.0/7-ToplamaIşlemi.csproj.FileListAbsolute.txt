@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\7-ToplamaIşlemi.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\7-ToplamaIşlemi.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\7-ToplamaIşlemi.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\7-ToplamaIşlemi.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\bin\Debug\net8.0\7-ToplamaIşlemi.exe
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\bin\Debug\net8.0\7-ToplamaIşlemi.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\bin\Debug\net8.0\7-ToplamaIşlemi.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\bin\Debug\net8.0\7-ToplamaIşlemi.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\bin\Debug\net8.0\7-ToplamaIşlemi.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\7-ToplamaIşlemi.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\refint\7-ToplamaIşlemi.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\7-ToplamaIşlemi.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\7-ToplamaIşlemi.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\7-ToplamaIşlemi\obj\Debug\net8.0\ref\7-ToplamaIşlemi.dll

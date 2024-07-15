@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\bin\Debug\net8.0\4-BirdenYüzeÇift.exe
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\bin\Debug\net8.0\4-BirdenYüzeÇift.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\bin\Debug\net8.0\4-BirdenYüzeÇift.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\bin\Debug\net8.0\4-BirdenYüzeÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\bin\Debug\net8.0\4-BirdenYüzeÇift.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\4-BirdenYüzeÇift.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\4-BirdenYüzeÇift.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\4-BirdenYüzeÇift.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\4-BirdenYüzeÇift.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\4-BirdenYüzeÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\refint\4-BirdenYüzeÇift.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\4-BirdenYüzeÇift.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\4-BirdenYüzeÇift.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\4-BirdenYüzeÇift\obj\Debug\net8.0\ref\4-BirdenYüzeÇift.dll

@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\bin\Debug\net8.0\5-BirdenYüzeTek.exe
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\bin\Debug\net8.0\5-BirdenYüzeTek.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\bin\Debug\net8.0\5-BirdenYüzeTek.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\bin\Debug\net8.0\5-BirdenYüzeTek.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\bin\Debug\net8.0\5-BirdenYüzeTek.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\5-BirdenYüzeTek.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\5-BirdenYüzeTek.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\5-BirdenYüzeTek.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\5-BirdenYüzeTek.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\5-BirdenYüzeTek.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\refint\5-BirdenYüzeTek.dll
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\5-BirdenYüzeTek.pdb
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\5-BirdenYüzeTek.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev 1_1\5-BirdenYüzeTek\obj\Debug\net8.0\ref\5-BirdenYüzeTek.dll

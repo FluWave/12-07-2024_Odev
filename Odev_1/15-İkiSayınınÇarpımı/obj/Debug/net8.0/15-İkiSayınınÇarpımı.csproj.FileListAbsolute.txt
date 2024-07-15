@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\bin\Debug\net8.0\15-İkiSayınınÇarpımı.exe
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\bin\Debug\net8.0\15-İkiSayınınÇarpımı.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\bin\Debug\net8.0\15-İkiSayınınÇarpımı.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\bin\Debug\net8.0\15-İkiSayınınÇarpımı.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\bin\Debug\net8.0\15-İkiSayınınÇarpımı.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\15-İkiSayınınÇarpımı.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\15-İkiSayınınÇarpımı.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\15-İkiSayınınÇarpımı.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\15-İkiSayınınÇarpımı.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\15-İkiSayınınÇarpımı.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\refint\15-İkiSayınınÇarpımı.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\15-İkiSayınınÇarpımı.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\15-İkiSayınınÇarpımı.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\15-İkiSayınınÇarpımı\obj\Debug\net8.0\ref\15-İkiSayınınÇarpımı.dll

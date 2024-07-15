@@ -1,0 +1,14 @@
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\9-AsalSayıKontrol.GeneratedMSBuildEditorConfig.editorconfig
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\9-AsalSayıKontrol.AssemblyInfoInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\9-AsalSayıKontrol.AssemblyInfo.cs
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\9-AsalSayıKontrol.csproj.CoreCompileInputs.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\bin\Debug\net8.0\9-AsalSayıKontrol.exe
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\bin\Debug\net8.0\9-AsalSayıKontrol.deps.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\bin\Debug\net8.0\9-AsalSayıKontrol.runtimeconfig.json
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\bin\Debug\net8.0\9-AsalSayıKontrol.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\bin\Debug\net8.0\9-AsalSayıKontrol.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\9-AsalSayıKontrol.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\refint\9-AsalSayıKontrol.dll
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\9-AsalSayıKontrol.pdb
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\9-AsalSayıKontrol.genruntimeconfig.cache
+E:\denemebtk\12-07-2024_Odev\Odev_1\9-AsalSayıKontrol\obj\Debug\net8.0\ref\9-AsalSayıKontrol.dll
